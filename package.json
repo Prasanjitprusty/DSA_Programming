@@ -1,0 +1,28 @@
+{
+  "name": "capstone-project-module-1",
+  "version": "1.0.0",
+  "description": " This is a capstone project of Almabetter for module 1.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prasanjitprusty/CapstoneProject-module1-.git"
+  },
+  "keywords": [
+    "capstone",
+    "project",
+    "module-1"
+  ],
+  "author": "Prasanjit Prusty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prasanjitprusty/CapstoneProject-module1-/issues"
+  },
+  "homepage": "https://github.com/Prasanjitprusty/CapstoneProject-module1-#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "readline-sync": "^1.4.10"
+  }
+}
